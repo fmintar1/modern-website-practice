@@ -2,6 +2,7 @@ import React from 'react'
 import { features } from '../constants'
 import styles, { layout } from '../style'
 import Button from './button'
+import featurecard from './featurecard'
 
 //features have id, icon, title, and content inside it
 //props destructure it
