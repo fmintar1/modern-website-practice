@@ -1,4 +1,5 @@
 const styles = {
+    //full width
     boxWidth: "xl:max-w-[1280px] w-full",
   
     heading2: "font-poppins font-semibold xs:text-[48px] text-[40px] text-white xs:leading-[76.8px] leading-[66.8px] w-full",
@@ -7,6 +8,7 @@ const styles = {
     flexCenter: "flex justify-center items-center",
     flexStart: "flex justify-center items-start",
   
+    //padding X is 6, smaller device is 16
     paddingX: "sm:px-16 px-6",
     paddingY: "sm:py-16 py-6",
     padding: "sm:px-16 px-6 sm:py-12 py-4",
