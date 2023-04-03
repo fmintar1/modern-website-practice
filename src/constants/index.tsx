@@ -72,7 +72,7 @@ export const feedback = [
   },
 ];
 
-export const stats = [
+export const status = [
   {
     id: "stats-1",
     title: "User Active",
